@@ -1,5 +1,6 @@
 # Sorting Algorithms Program
 #A program that shows you how much time each sorting algorithm takes 
+
 1.You can choose the sorting algorithm alongside the number of elements in the array 
 
 2.The program will generate random integers from 1 to the number you choose and will start sorting them 
